@@ -1,7 +1,7 @@
 # Project
 The project is a simple webpage to allow the user to log in to spotify and find out their 5 top songs from the last 4 weeks. It is built from the spotify examples for using their OAuth access to get the access token. 
 
-![Display of 5 songs](example.png "Example usage of website")
+![Display of 5 songs](example.PNG "Example usage of website")
 
 ## Installation
 
