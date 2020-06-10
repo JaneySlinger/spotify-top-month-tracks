@@ -1,0 +1,43 @@
+.trackItem {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    font-size: 20px;
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+.albumArt {
+    align-content: center;
+    padding-right: 30px;
+    padding-left: 20px;
+    vertical-align: middle;
+
+}
+
+.TrackList {
+    display: inline-block;
+}
+
+ol {
+    list-style: none;
+    counter-reset: my-counter;
+}
+ol li {
+    counter-increment: my-counter;
+}
+
+ol li::before {
+    content: counter(my-counter) ". ";
+    font-weight: bold;
+}
+
+.wrapper {
+    align-content: center;
+  
+}
