@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//janeyslinger.github.io/spotify-top-month-tracks/precache-manifest.11007a19788b4c03b44f334959001255.js"
+  "//janeyslinger.github.io/spotify-top-month-tracks/precache-manifest.8641e0d098c4a2530bf8a4a03dd99853.js"
 );
 
 self.addEventListener('message', (event) => {

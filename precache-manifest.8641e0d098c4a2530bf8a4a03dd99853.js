@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "741d1c03493cab1e0b3d76a6dd5edac0",
+    "revision": "c66272e2cd3c81c3ba145d5f55dfd496",
     "url": "//janeyslinger.github.io/spotify-top-month-tracks/index.html"
   },
   {
