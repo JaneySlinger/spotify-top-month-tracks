@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.a5e67f46.chunk.css",
-    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.9fd5ed4b.chunk.js",
-    "main.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.9fd5ed4b.chunk.js.map",
+    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.571ba043.chunk.js",
+    "main.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.571ba043.chunk.js.map",
     "runtime-main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/runtime-main.a17793aa.js",
     "runtime-main.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/runtime-main.a17793aa.js.map",
     "static/js/2.e830d736.chunk.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js",
     "static/js/2.e830d736.chunk.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js.map",
     "index.html": "//janeyslinger.github.io/spotify-top-month-tracks/index.html",
-    "precache-manifest.e77decdda9f1a3da5f32a915cffc0b14.js": "//janeyslinger.github.io/spotify-top-month-tracks/precache-manifest.e77decdda9f1a3da5f32a915cffc0b14.js",
+    "precache-manifest.a3435c602d2019f1c69b49136e589c6b.js": "//janeyslinger.github.io/spotify-top-month-tracks/precache-manifest.a3435c602d2019f1c69b49136e589c6b.js",
     "service-worker.js": "//janeyslinger.github.io/spotify-top-month-tracks/service-worker.js",
     "static/css/main.a5e67f46.chunk.css.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.a5e67f46.chunk.css.map",
     "static/js/2.e830d736.chunk.js.LICENSE.txt": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a17793aa.js",
     "static/js/2.e830d736.chunk.js",
     "static/css/main.a5e67f46.chunk.css",
-    "static/js/main.9fd5ed4b.chunk.js"
+    "static/js/main.571ba043.chunk.js"
   ]
 }

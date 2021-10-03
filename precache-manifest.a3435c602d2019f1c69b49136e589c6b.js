@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f7ba68c1744b56ab3ab1ff16479752d",
+    "revision": "863c3f3bb3c4a45156758e3e9e5ac959",
     "url": "//janeyslinger.github.io/spotify-top-month-tracks/index.html"
   },
   {
-    "revision": "6912ff8875c8f85d771e",
+    "revision": "59cb7e6cdf524511259f",
     "url": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.a5e67f46.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6912ff8875c8f85d771e",
-    "url": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.9fd5ed4b.chunk.js"
+    "revision": "59cb7e6cdf524511259f",
+    "url": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.571ba043.chunk.js"
   },
   {
     "revision": "27b6c11042891187884e",
