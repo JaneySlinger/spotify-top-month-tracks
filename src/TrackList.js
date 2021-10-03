@@ -4,7 +4,7 @@ import './TrackList.css';
 function Song(props) {
     return (
         <li className = "trackItem" key={props.name}>
-          <img className="albumArt" src = {props.albumArt} style={{height: 150}}/>
+          <img className="albumArt" alt={"cover art for " + props.name} src = {props.albumArt} style={{height: 150}}/>
           <strong>{props.name}</strong> - {props.artist}
         </li>
       )

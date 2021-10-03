@@ -3,7 +3,7 @@ import './App.css';
 import TrackList from './TrackList.js';
 import SpotifyWebApi from 'spotify-web-api-js';
 import logo from './resources/logo.png'
-import {SpotifyAuth, Scopes} from 'react-spotify-auth'
+import {SpotifyAuth} from 'react-spotify-auth'
 import Cookies from 'js-cookie'
 const spotifyApi = new SpotifyWebApi();
 
