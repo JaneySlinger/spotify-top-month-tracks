@@ -78,7 +78,7 @@ class App extends Component {
             </div>
           ) : (
           <SpotifyAuth
-            redirectUri='http://localhost:3000/callback'
+            redirectUri={process.env.PUBLIC_URL}
             clientID='c3d812e9f0fe4bc6a1b3c3a75bbfa4c6'
             scopes={['user-read-private', 'user-read-email', 'user-read-playback-state', 'user-top-read']}
             title="Log in with Spotify"
