@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://https://janeyslinger.github.io/spotify-top-month-tracks/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
