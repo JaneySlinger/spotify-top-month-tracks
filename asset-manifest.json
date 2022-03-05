@@ -1,23 +1,14 @@
 {
   "files": {
-    "main.css": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.a5e67f46.chunk.css",
-    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.c5d6e333.chunk.js",
-    "main.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.c5d6e333.chunk.js.map",
-    "runtime-main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/runtime-main.a17793aa.js",
-    "runtime-main.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/runtime-main.a17793aa.js.map",
-    "static/js/2.e830d736.chunk.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js",
-    "static/js/2.e830d736.chunk.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js.map",
+    "main.css": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.07e0b04c.css",
+    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.df8a6bfb.js",
+    "static/media/logo.png": "//janeyslinger.github.io/spotify-top-month-tracks/static/media/logo.cd66b8f63f6566194c7e.png",
     "index.html": "//janeyslinger.github.io/spotify-top-month-tracks/index.html",
-    "precache-manifest.8641e0d098c4a2530bf8a4a03dd99853.js": "//janeyslinger.github.io/spotify-top-month-tracks/precache-manifest.8641e0d098c4a2530bf8a4a03dd99853.js",
-    "service-worker.js": "//janeyslinger.github.io/spotify-top-month-tracks/service-worker.js",
-    "static/css/main.a5e67f46.chunk.css.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.a5e67f46.chunk.css.map",
-    "static/js/2.e830d736.chunk.js.LICENSE.txt": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/2.e830d736.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "//janeyslinger.github.io/spotify-top-month-tracks/static/media/logo.7a34cf42.png"
+    "main.07e0b04c.css.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.07e0b04c.css.map",
+    "main.df8a6bfb.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.df8a6bfb.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a17793aa.js",
-    "static/js/2.e830d736.chunk.js",
-    "static/css/main.a5e67f46.chunk.css",
-    "static/js/main.c5d6e333.chunk.js"
+    "static/css/main.07e0b04c.css",
+    "static/js/main.df8a6bfb.js"
   ]
 }
