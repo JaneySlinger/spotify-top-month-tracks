@@ -1,21 +1,17 @@
-import { Component } from "react";
+import React, { Component } from "react";
 
 class EmailButton extends Component {
 
-    getImageUrls() {
-        return this.props.tracks.map(track => track.albumArt);
-    }
-
     sendEmail() {
-        let urls = {"urls": getImageUrls()};
+        let urls = {"urls": this.props.tracks.map(track => track.albumArt)};
         console.log(urls);
-        const response = fetch("https://7kacgsegll.execute-api.eu-west-1.amazonaws.com/prod", 'POST', body=urls).then(data => console.log(data));
+        fetch("https://7kacgsegll.execute-api.eu-west-1.amazonaws.com/prod", 'POST', urls).then(data => console.log(data));
     }
 
     render() {
-        <button className="emailButton" onClick={() => this.sendEmail()}>
-                Email pdf images
-              </button>
+        return(<button className="emailButton" onClick={() => this.sendEmail()}>
+        Email pdf images
+      </button>)
     }
 }
 
