@@ -9,7 +9,8 @@ class EmailButton extends Component {
     }
 
     render() {
-        return(<button className="emailButton" onClick={() => this.sendEmail()}>
+        return(
+        <button className="emailButton" onClick={() => this.sendEmail()}>
         Email pdf images
       </button>)
     }

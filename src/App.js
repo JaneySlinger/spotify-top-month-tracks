@@ -76,6 +76,9 @@ class App extends Component {
                   tracks = {this.state.topTracks}
                 />
               </div>
+              <div>
+                <EmailButton tracks = {this.state.topTracks}/>
+              </div>
             </div>
           ) : (
           <SpotifyAuth
@@ -86,9 +89,6 @@ class App extends Component {
             noLogo='true'
             btnClassName='checkButton'
           />)}
-        </div>
-        <div>
-          <EmailButton tracks = {this.state.topTracks}/>
         </div>
       </div>
       
