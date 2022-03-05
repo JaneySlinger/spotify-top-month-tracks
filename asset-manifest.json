@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.07e0b04c.css",
-    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.df8a6bfb.js",
+    "main.js": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.c0bbea55.js",
     "static/media/logo.png": "//janeyslinger.github.io/spotify-top-month-tracks/static/media/logo.cd66b8f63f6566194c7e.png",
     "index.html": "//janeyslinger.github.io/spotify-top-month-tracks/index.html",
     "main.07e0b04c.css.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/css/main.07e0b04c.css.map",
-    "main.df8a6bfb.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.df8a6bfb.js.map"
+    "main.c0bbea55.js.map": "//janeyslinger.github.io/spotify-top-month-tracks/static/js/main.c0bbea55.js.map"
   },
   "entrypoints": [
     "static/css/main.07e0b04c.css",
-    "static/js/main.df8a6bfb.js"
+    "static/js/main.c0bbea55.js"
   ]
 }
