@@ -5,7 +5,7 @@ class EmailButton extends Component {
     sendEmail() {
         let urls = {"urls": this.props.tracks.map(track => track.albumArt)};
         console.log(urls);
-        fetch("https://7kacgsegll.execute-api.eu-west-1.amazonaws.com/prod", 'POST', urls).then(data => console.log(data));
+        const response = await fetch("https://7kacgsegll.execute-api.eu-west-1.amazonaws.com/prod", 'POST', urls);
     }
 
     render() {
