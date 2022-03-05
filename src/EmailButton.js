@@ -8,6 +8,7 @@ class EmailButton extends Component {
 
     sendEmail() {
         let urls = {"urls": getImageUrls()};
+        console.log(urls);
         const response = await fetch("https://7kacgsegll.execute-api.eu-west-1.amazonaws.com/prod", 'POST', body=urls).then(data => console.log(data));
     }
 
