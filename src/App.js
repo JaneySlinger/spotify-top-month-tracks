@@ -5,6 +5,7 @@ import SpotifyWebApi from 'spotify-web-api-js';
 import logo from './resources/logo.png'
 import {SpotifyAuth} from 'react-spotify-auth'
 import Cookies from 'js-cookie'
+import EmailButton from './EmailButton';
 const spotifyApi = new SpotifyWebApi();
 
 class App extends Component {
@@ -85,6 +86,9 @@ class App extends Component {
             noLogo='true'
             btnClassName='checkButton'
           />)}
+        </div>
+        <div>
+          <EmailButton tracks = {this.state.topTracks}/>
         </div>
       </div>
       
