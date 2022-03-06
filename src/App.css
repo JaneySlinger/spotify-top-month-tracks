@@ -7,13 +7,12 @@ div, button {
   margin: 10px;
 }
 
-.checkButton {
+.checkButton, .emailButton {
   background-color: #1DB954;
   border-color: #1DB954;
   font-size: 30px;
   border-radius: 15px;
   color: white;
-
 }
 
 .logo {
